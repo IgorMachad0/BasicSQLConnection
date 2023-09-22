@@ -1,0 +1,22 @@
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.csproj.AssemblyReference.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.AssemblyInfoInputs.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.AssemblyInfo.cs
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.csproj.CoreCompileInputs.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\SQL Basic Connection.exe
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\SQL Basic Connection.deps.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\SQL Basic Connection.runtimeconfig.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\SQL Basic Connection.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\SQL Basic Connection.pdb
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.csproj.CopyComplete
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\refint\SQL Basic Connection.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.pdb
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\SQL Basic Connection.genruntimeconfig.cache
+C:\Users\iGORN\Documents\Programar\Projetos\back end\SQL Basic Connection\obj\Debug\net7.0\ref\SQL Basic Connection.dll
